@@ -1,0 +1,21 @@
+.body{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 10px;
+ 
+}
+CardMedia{
+  object-fit: scale-down;
+}
+.cards{
+ 
+  text-align: center;
+ 
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
